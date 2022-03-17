@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d38d35cb4505548488c68e7e515efd37, type: 3}
+  m_Name: Ogre
+  m_EditorClassIdentifier: 
+  _cardName: Ogre
+  _cardDescription: Stun
+  _cardManaValueMax: 0
+  _cardHealthValueMax: 0
+  _cardAttackValueMax: 0
